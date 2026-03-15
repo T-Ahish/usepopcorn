@@ -5,7 +5,7 @@ usePopcorn is a modern **React-based movie search and watchlist application** po
 ## 🚀 Live Demo
 
 👉 **Netlify Deployment:** _Link To Add_  
-👉 **GitHub Repository:** _Link To Add_
+👉 **GitHub Repository:** https://github.com/T-Ahish/usepopcorn
 
 ## 🎯 Features
 
